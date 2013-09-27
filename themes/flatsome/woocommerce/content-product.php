@@ -1,4 +1,4 @@
-<?php
+<?php //echo "content-product";
 /**
  * The template for displaying product content within loops.
  *

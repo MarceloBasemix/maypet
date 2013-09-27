@@ -1,4 +1,4 @@
-<?php
+<?php //echo "content-product_cat";
 /**
  * The template for displaying product category thumbnails within loops.
  *
