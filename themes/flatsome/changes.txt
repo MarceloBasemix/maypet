@@ -1,0 +1,32 @@
+----- 1.2.1 (9 september 2013) -----
+FIX: Left and Right sidebar template now works properly.
+FIX: Small CSS fixes
+
+
+----- 1.2 (8 september 2013) -----
+
+NEW FEATURE: Featured item Post type (Portfolio style) Optional plugin.
+NEW FEATURE: New Parallax option for UX Banners! [ux_banner parallax="1"]
+NEW FEATURE: Blank landing page template (no logo, and no footer)
+
+FIX: Fixed various bugs with [ux_slider] shortcode.
+FIX: Header background image now works.
+FIX: Various CSS and JS fixes.
+FIX: Blocks shortcode now visible in Blocks post list.
+
+
+----- 1.1 (5 september 2013) ------
+
+NEW FEATURE: Change blog layout (Sidebar right, Sidebar left, No sidebar)
+
+FIX: Customers now redirects to homepage when user logging out.
+FIX: Error message display bug
+FIX: CSS for IE8 now loads properly.
+FIX: Various CSS improvements.
+FIX: Various mobile CSS fixes.
+FIX: Various fixes for iPad/Tablet portrait mode.
+FIX: Pinterest grid now works properly
+FIX: Google Rich snippets now works (Review stars in google search results)
+
+----- 1.0 (3 september 2013) -----
+Initial release

@@ -1,0 +1,1138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flatsome\n"
+"POT-Creation-Date: 2013-08-20 22:10+0100\n"
+"PO-Revision-Date: 2013-08-20 22:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/"
+"themes/flatsome\n"
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:30
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:33
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:40
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:48
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:51
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:54
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:57
+msgid "Asides"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:60
+msgid "Images"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:63
+msgid "Videos"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:66
+msgid "Quotes"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:69
+msgid "Links"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/comments.php:36
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/comments.php:37
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content-page.php:18
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content-single.php:33
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content.php:41
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/image.php:95
+msgid "Pages:"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content-single.php:42
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content-single.php:45
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content.php:52
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content.php:60
+msgid ", "
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content-single.php:50
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content-single.php:52
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content.php:65
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content.php:71
+msgid "Leave a comment"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content.php:71
+msgid "<strong>1</strong> Comment"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/content.php:71
+msgid "<strong>%</strong> Comments"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:144
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:145
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:146
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:147
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:158
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:178
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:159
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:179
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:160
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:195
+msgid "Main Menu"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:196
+msgid "Footer Menu"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:197
+msgid "Top bar Menu"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:198
+msgid "My Account Menu"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:213
+msgid "Sidebar"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:223
+msgid "Shop Sidebar"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:233
+msgid "Footer 1 (4 column)"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:243
+msgid "Footer 2 (4 column)"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/functions.php:312
+msgid "Flatsome Theme Options"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/header.php:133
+msgid "My account"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/header.php:158
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:26
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:40
+msgid "Login"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/header.php:171
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:243
+msgid "Cart"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/header.php:190
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:304
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/image.php:34
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/image.php:112
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:76
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:105
+msgid "Edit"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/image.php:38
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/image.php:39
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/image.php:104
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/image.php:106
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/image.php:108
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/image.php:110
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/page-checkout.php:16
+msgid "Shopping Cart"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/page-checkout.php:18
+msgid "Checkout details"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/page-checkout.php:20
+msgid "Order Complete"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/wishlist.php:85
+msgid "Remove this product"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/wishlist.php:109
+msgid "Out of Stock"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/wishlist.php:112
+msgid "In Stock"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/wishlist.php:125
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/admin/classes/class.options_machine.php:556
+msgid "Last Backup : "
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/admin/front-end/options.php:43
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:517
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1956
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1956
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/extras.php:89
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/extras.php:108
+msgid "Header Content"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/extras.php:114
+msgid "Enter a value for this field"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:48
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:52
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:76
+msgid "Pingback:"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:92
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:94
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:140
+#, php-format
+msgid ""
+"<span class=\"meta-author\">by <strong><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></strong></span>. Posted on <a href="
+"\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime="
+"\"%3$s\">%4$s</time></a>"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:146
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:272
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:52
+msgid "Remove this item"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:279
+msgid "Quantity:"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:296
+msgid "Cart subtotal"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:299
+msgid "View Cart"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:301
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:344
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:377
+msgid "Previous Post"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:377
+msgid "Next Post"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:426
+#, php-format
+msgid "Use commas instead of %s to separate excluded categories."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/post-types/blocks.php:27
+msgid "Title"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/post-types/blocks.php:28
+msgid "Shortcode"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/post-types/blocks.php:29
+msgid "Date"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/widgets/recent-posts.php:17
+msgid "A widget that displays recent posts "
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/widgets/recent-posts.php:21
+msgid "Flatsome Recent Posts"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/widgets/recent-posts.php:95
+msgid "Title:"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:34
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:40
+msgid "Reviews"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:64
+msgid "Add a Review"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:68
+msgid "Be the first to review"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:91
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:78
+msgid "Email"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:94
+msgid "Submit Review"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:101
+msgid "Rating"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:102
+msgid "Rate&hellip;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:103
+msgid "Perfect"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:104
+msgid "Good"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:105
+msgid "Average"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:106
+msgid "Not that bad"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:107
+msgid "Very Poor"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product-reviews.php:112
+msgid "Your Review"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart-empty.php:17
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart-empty.php:21
+msgid "&larr; Return To Shop"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:30
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:21
+msgid "Product"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:33
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:22
+msgid "Total"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:77
+msgid "Available on backorder"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:143
+msgid "Update Cart"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:144
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:152
+msgid "Coupon"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:153
+msgid "Enter Coupon"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cart.php:154
+msgid "Apply Coupon"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/mini-cart.php:63
+msgid "Subtotal"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/mini-cart.php:68
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/mini-cart.php:69
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-calculator.php:29
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-calculator.php:46
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-calculator.php:52
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-calculator.php:64
+msgid "State / county"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-calculator.php:53
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-calculator.php:73
+msgid "City"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-calculator.php:81
+msgid "Postcode / Zip"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-calculator.php:86
+msgid "Update Totals"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-methods.php:32
+msgid "Free"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-methods.php:68
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-methods.php:76
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:147
+#, php-format
+msgid ""
+"Sorry, it seems that there are no available shipping methods for your "
+"location (%s)."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/shipping-methods.php:76
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:147
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:22
+msgid "Cart Totals"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:28
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:27
+msgid "Cart Subtotal"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:35
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:34
+msgid "Cart Discount"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:35
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:83
+msgid "[Remove]"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:46
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:45
+msgid "Shipping"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:83
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:82
+msgid "Order Discount"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:92
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:91
+msgid "Order Total"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:105
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:104
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:121
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:123
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/totals.php:135
+msgid ""
+"No shipping methods were found; please recalculate your shipping and enter "
+"your state/county and zip/postcode to ensure there are no other available "
+"methods for your location."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/form-checkout.php:40
+msgid "Returning customer?"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/form-checkout.php:42
+msgid "Click here to login"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/form-checkout.php:47
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/form-checkout.php:87
+msgid "Your order"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/form-shipping.php:34
+msgid "Ship to billing address?"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/form-shipping.php:40
+msgid "Shipping Address"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/form-shipping.php:63
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:143
+msgid "Payment method"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:177
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:179
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:188
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:188
+msgid "Update totals"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:195
+msgid "Place order"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:202
+msgid "I have read and accept the"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/review-order.php:202
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:28
+msgid "Pay"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:36
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:70
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:40
+msgid "Order:"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/add-to-cart.php:17
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/add-to-cart.php:41
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/add-to-cart.php:50
+msgid "Read More"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/add-to-cart.php:33
+msgid "Select options"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/add-to-cart.php:37
+msgid "View options"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/add-to-cart.php:46
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/add-to-cart/grouped.php:45
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/add-to-cart/grouped.php:77
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/add-to-cart/simple.php:35
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/add-to-cart/variable.php:76
+msgid "Add to cart"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/no-products-found.php:14
+msgid "No products found which match your selection."
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/loop/sale-flash.php:18
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/sale-flash.php:18
+msgid "Sale!"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:29
+msgid "Username or email"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:33
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:85
+msgid "Password"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:50
+msgid "Lost Password?"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:60
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:101
+msgid "Register"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:66
+msgid "Username"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/myaccount/form-login.php:89
+msgid "Re-enter password"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/shop/breadcrumb.php:76
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/shop/breadcrumb.php:104
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/shop/breadcrumb.php:201
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/shop/breadcrumb.php:159
+msgid "Error 404"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/shop/breadcrumb.php:205
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/shop/breadcrumb.php:210
+msgid "Author:"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/shop/breadcrumb.php:215
+msgid "Page"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/review.php:41
+msgid "verified owner"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/add-to-cart/variable.php:22
+msgid "Choose an option"
+msgstr ""
+
+#: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
