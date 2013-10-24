@@ -46,9 +46,9 @@ global $flatsome_opt;
 		
 			// But this blog has loads of categories so we should probably display them here
 			if ( '' != $tag_list ) {
-				$meta_text = __( 'This entry was posted in %1$s and tagged %2$s.', 'flatsome' );
+				$meta_text = __( 'Este artigo foi postado em %1$s and tagged %2$s.', 'flatsome' );
 			} else {
-				$meta_text = __( 'This entry was posted in %1$s. Bookmark the <a href="%3$s" title="Permalink to %4$s" rel="bookmark">permalink</a>.', 'flatsome' );
+				$meta_text = __( 'Este artigo foi postado em %1$s. Link direto <a href="%3$s" title="Permalink to %4$s" rel="bookmark">para o artigo</a>.', 'flatsome' );
 			}
 
 
