@@ -136,7 +136,7 @@ if ( ! function_exists( 'flatsome_posted_on' ) ) :
  * Prints HTML with meta information for the current post-date/time and author.
  */
 function flatsome_posted_on() {
-	printf( __( '<span class="meta-author">by <strong><a class="url fn n" href="%5$s" title="%6$s" rel="author">%7$s</a></strong></span>. Posted on <a href="%1$s" title="%2$s" rel="bookmark"><time class="entry-date" datetime="%3$s">%4$s</time></a>', 'flatsome' ),
+	printf( __( '<span class="meta-author">de <strong><a class="url fn n" href="%5$s" title="%6$s" rel="author">%7$s</a></strong></span>. Postado em <a href="%1$s" title="%2$s" rel="bookmark"><time class="entry-date" datetime="%3$s">%4$s</time></a>', 'flatsome' ),
 		esc_url( get_permalink() ),
 		esc_attr( get_the_time() ),
 		esc_attr( get_the_date( 'c' ) ),

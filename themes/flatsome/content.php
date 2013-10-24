@@ -53,7 +53,7 @@
 				$categories_list = get_the_category_list( __( ', ', 'flatsome' ) );
 			?>
 			<span class="cat-links">
-				<?php printf( __( 'Posted in %1$s', 'flatsome' ), $categories_list ); ?>
+				<?php printf( __( 'Postado em %1$s', 'flatsome' ), $categories_list ); ?>
 			</span>
 
 			<?php
