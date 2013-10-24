@@ -140,7 +140,7 @@ $available_methods = $woocommerce->shipping->get_available_shipping_methods();
 	<div id="payment">
 		<?php if ($woocommerce->cart->needs_payment()) : ?>
 		
-		<h3><?php echo _e('Payment method', 'woocommerce' ) ?></h3>
+		<h3><?php echo _e('Tipos de pagamentos', 'woocommerce' ) ?></h3>
 		
 		<ul class="payment_methods methods">
 			<?php

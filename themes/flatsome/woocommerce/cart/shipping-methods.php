@@ -55,7 +55,7 @@ if ( $available_methods ) {
 		echo '<ul id="shipping_method">';
 
 		foreach ( $available_methods as $method )
-			echo '<li><input type="radio" name="shipping_method" id="shipping_method_' . sanitize_title( $method->id ) . '" value="' . esc_attr( $method->id ) . '" ' . checked( $method->id, $woocommerce->session->chosen_shipping_method, false) . ' /> <label for="shipping_method_' . sanitize_title( $method->id ) . '">' . wp_kses_post( $method->full_label ) . '</label></li>';
+			echo '<li style="list-style: none;"><input type="radio" name="shipping_method" id="shipping_method_' . sanitize_title( $method->id ) . '" value="' . esc_attr( $method->id ) . '" ' . checked( $method->id, $woocommerce->session->chosen_shipping_method, false) . ' style="margin-right: 100px;" /> <label for="shipping_method_' . sanitize_title( $method->id ) . '" style="margin-top: -30px;" >' . wp_kses_post( $method->full_label ) . '</label></li>';
 
 		echo '</ul>';
 	}

@@ -30,7 +30,7 @@ $rand = rand(0,50);
           <div class="tx-div small"></div>
           <?php do_action( 'woocommerce_after_shop_loop_item_title' ); ?>
         </div>
-        <div class="quick-view" data-prod="<?php echo $post->ID; ?>">+ Quick View</div><!-- .quick-view -->
+        <div class="quick-view" data-prod="<?php echo $post->ID; ?>">+ Visualização rápida</div><!-- .quick-view -->
       </div><!-- end product-image -->
       <?php woocommerce_get_template( 'loop/sale-flash.php' ); ?>
 </a>      	

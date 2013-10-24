@@ -36,7 +36,7 @@ if(isset($flatsome_opt['blog_header'])){ echo do_shortcode($flatsome_opt['blog_h
 				<h1 class="page-title">
 					<?php
 						if ( is_category() ) :
-							printf( __( 'Category Archives: %s', 'flatsome' ), '<span>' . single_cat_title( '', false ) . '</span>' );
+							printf( __( 'Categoria: %s', 'flatsome' ), '<span>' . single_cat_title( '', false ) . '</span>' );
 
 						elseif ( is_tag() ) :
 							printf( __( 'Tag Archives: %s', 'flatsome' ), '<span>' . single_tag_title( '', false ) . '</span>' );

@@ -241,7 +241,7 @@ function flatsome_add_to_cart_dropdown( $fragments ) {
 	?>
 	<div class="cart-inner">
 	<a href="<?php echo esc_url( $woocommerce->cart->get_cart_url() ); ?>" class="cart-link">
-					<strong class="cart-name hide-for-small"><?php _e('Cart', 'flatsome'); ?></strong> 
+					<strong class="cart-name hide-for-small"><?php _e('Carrinho', 'flatsome'); ?></strong> 
 					<span class="cart-price hide-for-small">/ <?php echo $woocommerce->cart->get_cart_total(); ?></span> 
                         
 					<!-- cart icon -->
@@ -293,12 +293,12 @@ function flatsome_add_to_cart_dropdown( $fragments ) {
                                 </div>
                                             
                                     <div class="minicart_total_checkout">                                        
-                                        <?php _e('Cart subtotal', 'flatsome'); ?><span><?php echo $woocommerce->cart->get_cart_total(); ?></span>                                   
+                                        <?php _e('Subtotal', 'flatsome'); ?><span><?php echo $woocommerce->cart->get_cart_total(); ?></span>                                   
                                     </div>
                                     
-                                    <a href="<?php echo esc_url( $woocommerce->cart->get_cart_url() ); ?>" class="button expand uppercase"><?php _e('View Cart', 'flatsome'); ?></a>   
+                                    <a href="<?php echo esc_url( $woocommerce->cart->get_cart_url() ); ?>" class="button expand uppercase"><?php _e('Ver carrinho', 'flatsome'); ?></a>   
                                     
-                                    <a href="<?php echo esc_url( $woocommerce->cart->get_checkout_url() ); ?>" class="button secondary expand uppercase"><?php _e('Proceed to Checkout', 'flatsome'); ?></a>
+                                    <a href="<?php echo esc_url( $woocommerce->cart->get_checkout_url() ); ?>" class="button secondary expand uppercase"><?php _e('Finalizar compra', 'flatsome'); ?></a>
                                     
                                     <?php                                        
                                     else: echo '<p class="empty">'.__('No products in the cart.','woocommerce').'</p>'; endif;                                    

@@ -22,7 +22,7 @@ global $product, $woocommerce_loop, $flatsome_opt;
          <div class="front-image">
           <?php echo get_the_post_thumbnail( $post->ID,  apply_filters( 'single_product_small_thumbnail_size', 'shop_single' )) ?>
         </div>
-        <div class="quick-view" data-prod="<?php echo $post->ID; ?>">+ Quick View</div><!-- .quick-view -->
+        <div class="quick-view" data-prod="<?php echo $post->ID; ?>">+ Visualização rápida</div><!-- .quick-view -->
       </div><!-- end product-image -->
 
 

@@ -886,7 +886,7 @@ ol.commentlist li {
 h3.section-title {
   margin: 0 0 20px;
   text-transform: uppercase;
-  border-bottom: 3px solid #f1f1f1; }
+  border-bottom: 3px solid #9674a5; }
 
 h3.section-title a {
   float: right;
@@ -1650,7 +1650,8 @@ ul.top-bar-nav .nav-dropdown ul li:last-child {
   background: #fff; }
 
 .footer.dark {
-  background: #777777;
+  /*background: #777777;*/
+  background: url('http://www.maypet.com.br/loja/wp-content/uploads/2013/10/purple2_003-metal-and-carbon-fiber-pattern-background-texture.jpg') repeat;  
   border: 0; }
 
 .absolute-footer {
@@ -1683,13 +1684,16 @@ ul.top-bar-nav .nav-dropdown ul li:last-child {
   padding-bottom: 5px;
   text-transform: uppercase;
   font-size: 80%;
-  color: #111; }
+  /*color: #111;*/
+}
 
 .absolute-footer ul li a:hover {
   color: #FFF; }
 
 .copyright-footer {
-  opacity: 0.6; }
+  opacity: 0.6;
+  margin-top: 40px;
+}
 
 /**********************************************************************/
 /**************------------- 03. PAGES / BLOG -------------************/
@@ -2392,11 +2396,11 @@ img.attachment-shop_catalog, img.attachment-shop_single, img.attachment-shop_thu
 
 .callout .inner .inner-text {
   position: absolute;
-  top: 0;
+  top: 0px;
   left: 0;
   right: 0;
   text-align: center;
-  font-size: 16px;
+  font-size: 12px;
   color: #FFF;
   font-weight: bold;
   padding-top: 15px; }
@@ -2410,7 +2414,7 @@ img.attachment-shop_catalog, img.attachment-shop_single, img.attachment-shop_thu
   height: 90px; }
 
 .callout.large .inner .inner-text {
-  font-size: 28px;
+  font-size: 18px;
   padding-top: 30px; }
 
 .product.small .inner {
@@ -7221,3 +7225,7 @@ table td, table th {
 
 table tr:last-child {
   border-bottom: 0; }
+  
+#text-3 h3{
+	width: 245px;
+}  

@@ -122,7 +122,7 @@ global $flatsome_opt;
 								<?php
 								if ( is_user_logged_in() ) { ?> 
 								<a href="<?php echo get_permalink( get_option('woocommerce_myaccount_page_id') ); ?>" class="nav-top-link">
-									<?php _e('My account', 'woocommerce'); ?>
+									<?php _e('Minha conta', 'woocommerce'); ?>
 								</a>
 								<div class="nav-dropdown">
 									<ul>
@@ -156,7 +156,7 @@ global $flatsome_opt;
 						<div class="cart-inner">
 							<?php // Edit this content in inc/template-tags.php. Its gets relpaced with Ajax! ?>
 							<a href="<?php echo esc_url( $woocommerce->cart->get_cart_url() ); ?>" class="cart-link">
-								<strong class="cart-name hide-for-small"><?php _e('Cart', 'flatsome'); ?></strong> 
+								<strong class="cart-name hide-for-small">Carrinho</strong> 
 								<span class="cart-price hide-for-small">/ <?php echo $woocommerce->cart->get_cart_total(); ?></span> 
 									<!-- cart icon -->
 									<div class="cart-icon">

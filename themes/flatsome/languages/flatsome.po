@@ -26,7 +26,7 @@ msgstr ""
 
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:30
 #, php-format
-msgid "Category Archives: %s"
+msgid "Categoria: %s"
 msgstr ""
 
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:33
@@ -230,7 +230,7 @@ msgstr ""
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/header.php:171
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:243
 msgid "Cart"
-msgstr ""
+msgstr "Carrinho"
 
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/header.php:190
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:304
@@ -596,7 +596,7 @@ msgstr ""
 
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:299
 msgid "View Cart"
-msgstr ""
+msgstr "Visualizar Carrinho"
 
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/inc/template-tags.php:301
 msgid "Proceed to Checkout"
@@ -770,7 +770,7 @@ msgstr ""
 
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/mini-cart.php:68
 msgid "View Cart &rarr;"
-msgstr ""
+msgstr "Visualizar carrinho"
 
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/woocommerce/cart/mini-cart.php:69
 msgid "Checkout &rarr;"

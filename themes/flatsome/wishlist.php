@@ -122,7 +122,7 @@ $woocommerce->show_messages() ?>
                 endforeach;
             else: ?>
                 <tr>
-                    <td colspan="6" class="wishlist-empty"><?php _e( 'No products were added to the wishlist', 'yit' ) ?></td>
+                    <td colspan="6" class="wishlist-empty"><?php _e( 'Não há produtos adicionados a sua lista de desejos', 'yit' ) ?></td>
                 </tr>       
             <?php
             endif;

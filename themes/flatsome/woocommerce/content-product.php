@@ -70,7 +70,7 @@ $woocommerce_loop['loop']++;
 					?>
                     
 
-          <div class="quick-view" data-prod="<?php echo $post->ID; ?>">+ Quick View</div><!-- end zoom -->
+          <div class="quick-view" data-prod="<?php echo $post->ID; ?>">+ Visualização rápida</div><!-- end zoom -->
           
       </div><!-- end product-image -->
 

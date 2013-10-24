@@ -15,10 +15,10 @@ function shareShortcode($atts, $content = null) {
 	$container = '
 	<div class="social-icons share-row">
 			'.$title.'
-       	  	<a href="http://www.facebook.com/sharer.php?u='.$permalink.'&amp;images='.$featured_image_2.'" target="_blank" class="icon facebook tip-top" data-tip="Share on Facebook"><span class="icon-facebook"></span> </a>
-            <a href="https://twitter.com/share?url='.$permalink.'" target="_blank" class="icon twitter tip-top" data-tip="Share on Twitter"><span class="icon-twitter"></span> </a>
-            <a href="mailto:enteryour@addresshere.com?subject='.$post_title.'&amp;body=Check%20this%20out:%20'.$permalink.'" class="icon email tip-top" data-tip="Email to a Friend"><span class="icon-envelop"></span> </a>
-            <a href="//pinterest.com/pin/create/button/?url='.$permalink.'&amp;media='.$featured_image_2.'&amp;description='.$post_title.'" target="_blank" class="icon pintrest tip-top" data-tip="Pin on Pinterest"><span class="icon-pinterest"></span></a>
+       	  	<a href="http://www.facebook.com/sharer.php?u='.$permalink.'&amp;images='.$featured_image_2.'" target="_blank" class="icon facebook tip-top" data-tip="Compartilhe no Facebook"><span class="icon-facebook"></span> </a>
+            <a href="https://twitter.com/share?url='.$permalink.'" target="_blank" class="icon twitter tip-top" data-tip="Compartilhe no Twitter"><span class="icon-twitter"></span> </a>
+            <a href="//pinterest.com/pin/create/button/?url='.$permalink.'&amp;media='.$featured_image_2.'&amp;description='.$post_title.'" target="_blank" class="icon pintrest tip-top" data-tip="Divulgue no Pinterest"><span class="icon-pinterest"></span></a>
+            <a href="mailto:enteryour@addresshere.com?subject='.$post_title.'&amp;body=Check%20this%20out:%20'.$permalink.'" class="icon email tip-top" data-tip="Indique a um amigo pelo Email"><span class="icon-envelop"></span> </a>
        </div>
 	';
 	return $container;
@@ -49,16 +49,16 @@ function followShortcode($atts, $content = null) {
 		<?php }?>
 
     	<?php if($facebook){?> 
-    	<a href="<?php echo $facebook; ?>" target="_blank"  class="icon facebook tip-top" data-tip="Follow us on Facebook"><span class="icon-facebook"></span></a>
+    	<a href="<?php echo $facebook; ?>" target="_blank"  class="icon facebook tip-top" data-tip="Siga no Facebook"><span class="icon-facebook"></span></a>
 		<?php }?>
 		<?php if($twitter){?> 
-		       <a href="<?php echo $twitter; ?>" target="_blank" class="icon twitter tip-top" data-tip="Follow us on Twitter"><span class="icon-twitter"></span></a>
+		       <a href="<?php echo $twitter; ?>" target="_blank" class="icon twitter tip-top" data-tip="Siga no Twitter"><span class="icon-twitter"></span></a>
 		<?php }?>
 		<?php if($email){?> 
-		       <a href="mailto:<?php echo $email; ?>" target="_blank" class="icon email tip-top" data-tip="Send us an email"><span class="icon-envelop"></span></a>
+		       <a href="mailto:<?php echo $email; ?>" target="_blank" class="icon email tip-top" data-tip="Envie-nos um email"><span class="icon-envelop"></span></a>
 		<?php }?>
 		<?php if($pinterest){?> 
-		       <a href="<?php echo $pinterest; ?>" target="_blank" class="icon pintrest tip-top" data-tip="Follow us on Pinterest"><span class="icon-pinterest"></span></a>
+		       <a href="<?php echo $pinterest; ?>" target="_blank" class="icon pintrest tip-top" data-tip="Siga no Pinterest"><span class="icon-pinterest"></span></a>
 		<?php }?>
      </div>
     	

@@ -65,8 +65,8 @@ global $woocommerce;
 	<?php do_action( 'woocommerce_widget_shopping_cart_before_buttons' ); ?>
 
 	<p class="buttons">
-		<a href="<?php echo $woocommerce->cart->get_cart_url(); ?>" class="button"><?php _e( 'View Cart &rarr;', 'woocommerce' ); ?></a>
-		<a href="<?php echo $woocommerce->cart->get_checkout_url(); ?>" class="button secondary"><?php _e( 'Checkout &rarr;', 'woocommerce' ); ?></a>
+		<a href="<?php echo $woocommerce->cart->get_cart_url(); ?>" class="button"><?php _e( 'Visualizar Carrinho &rarr;', 'woocommerce' ); ?></a>
+		<a href="<?php echo $woocommerce->cart->get_checkout_url(); ?>" class="button secondary"><?php _e( 'Finalizar compra &rarr;', 'woocommerce' ); ?></a>
 	</p>
 
 <?php endif; ?>
