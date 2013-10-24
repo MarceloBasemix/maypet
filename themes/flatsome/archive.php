@@ -39,7 +39,7 @@ if(isset($flatsome_opt['blog_header'])){ echo do_shortcode($flatsome_opt['blog_h
 							printf( __( 'Categoria: %s', 'flatsome' ), '<span>' . single_cat_title( '', false ) . '</span>' );
 
 						elseif ( is_tag() ) :
-							printf( __( 'Tag Archives: %s', 'flatsome' ), '<span>' . single_tag_title( '', false ) . '</span>' );
+							printf( __( 'Tags: %s', 'flatsome' ), '<span>' . single_tag_title( '', false ) . '</span>' );
 
 						elseif ( is_author() ) :
 							/* Queue the first post, that way we know
@@ -54,13 +54,13 @@ if(isset($flatsome_opt['blog_header'])){ echo do_shortcode($flatsome_opt['blog_h
 							rewind_posts();
 
 						elseif ( is_day() ) :
-							printf( __( 'Daily Archives: %s', 'flatsome' ), '<span>' . get_the_date() . '</span>' );
+							printf( __( 'Dia: %s', 'flatsome' ), '<span>' . get_the_date() . '</span>' );
 
 						elseif ( is_month() ) :
-							printf( __( 'Monthly Archives: %s', 'flatsome' ), '<span>' . get_the_date( 'F Y' ) . '</span>' );
+							printf( __( 'Mês: %s', 'flatsome' ), '<span>' . get_the_date( 'F Y' ) . '</span>' );
 
 						elseif ( is_year() ) :
-							printf( __( 'Yearly Archives: %s', 'flatsome' ), '<span>' . get_the_date( 'Y' ) . '</span>' );
+							printf( __( 'Ano: %s', 'flatsome' ), '<span>' . get_the_date( 'Y' ) . '</span>' );
 
 						elseif ( is_tax( 'post_format', 'post-format-aside' ) ) :
 							_e( 'Asides', 'flatsome' );

@@ -46,7 +46,7 @@ msgstr ""
 
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:51
 #, php-format
-msgid "Monthly Archives: %s"
+msgid "Mês: %s"
 msgstr ""
 
 #: /Users/tommyvedvik/Desktop/www/flatsome/wp-content/themes/flatsome/archive.php:54
